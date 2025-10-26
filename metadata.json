@@ -1,0 +1,5 @@
+{
+  "name": "Dutch Crew Support Review",
+  "description": "A web application for clients of Dutch Crew Support to leave a review and rating for the transportation services provided. Accessed via QR code in vehicles.",
+  "requestFramePermissions": []
+}
